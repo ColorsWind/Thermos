@@ -7,7 +7,7 @@
 ![Thermos](thermos_icon.png)
 ![Graph](http://i.mcstats.org/Thermos/Global+Statistics@2x.borderless.png)
 
-[![Build Status](https://travis-ci.org/CyberdyneCC/Thermos.svg?branch=master)](https://travis-ci.org/CyberdyneCC/Thermos)
+[![Build Status](https://api.travis-ci.org/ColorsWind/Thermos.svg?branch=master)](https://api.travis-ci.org/ColorsWind/Thermos)
 ![Minecraft Forge v10.13.4.1614][forge]
 ![Minecraft v1.7.10][mc]
 ![Java JDK v1.8][java]
